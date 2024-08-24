@@ -1,4 +1,4 @@
-namespace Neural_Network___2
+namespace SnakeGame
 {
     internal static class Program
     {

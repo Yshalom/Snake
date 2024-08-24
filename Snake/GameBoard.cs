@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Neural_Network___2
+namespace SnakeGame
 {
     public class GameBoard
     {

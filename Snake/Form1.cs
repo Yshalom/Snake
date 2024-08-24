@@ -1,6 +1,6 @@
 using System.Xml.Serialization;
 
-namespace Neural_Network___2
+namespace SnakeGame
 {
     public partial class Form1 : Form
     {
