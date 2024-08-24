@@ -1,7 +1,8 @@
 # Snake
 <p>
 A mini-project
-The snake-game is played by a code (the computer is the one to play), and there's a graphic display
+</br>
+The snake-game is played by a code (the computer is the one to play), and there's a graphic display.
 The following pictures give nice examples of the program while it's running
 </p>
 
